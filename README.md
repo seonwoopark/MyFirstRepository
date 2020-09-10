@@ -5,4 +5,4 @@
 ##설문조사 응답
   2.택배
 
-[png](./png/README.md)
+[raspberry](./rpi.md)
